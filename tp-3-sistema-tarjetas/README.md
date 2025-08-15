@@ -37,7 +37,7 @@ Este proyecto es una aplicación de escritorio desarrollada en Java con Swing qu
 ![Diagrama de Clases](TP3-diagramaClase.png)
 
 ### Diagrama de Secuencia
-![Diagrama de Secuencia](diagramaSecuencia.png)
+![Diagrama de Secuencia](TP3-diagramaSecuencia.png)
 
 ## Cómo ejecutar
 
