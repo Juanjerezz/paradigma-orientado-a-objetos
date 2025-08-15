@@ -33,6 +33,12 @@ Este proyecto es una aplicación de escritorio desarrollada en Java con Swing qu
 │   │   └── Main.java
 ```
 
+### Diagrama de Clases
+![Diagrama de Clases](TP3-diagramaClase.png)
+
+### Diagrama de Secuencia
+![Diagrama de Secuencia](diagramaSecuencia.png)
+
 ## Cómo ejecutar
 
 1. Abrir el proyecto en tu IDE Java (Eclipse, IntelliJ, NetBeans, etc.)
