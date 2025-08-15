@@ -40,6 +40,12 @@ src/
 
 ---
 
+### Diagrama de Clases
+![Diagrama de Clases](TP4-diagramaClase.png)
+
+### Diagrama de Secuencia
+![Diagrama de Secuencia](TP4-diagramaSecuencia.png)
+
 ##  Testing
 
 Los tests se encuentran en `src/test/java` e incluyen pruebas para:
